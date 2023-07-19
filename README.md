@@ -1,3 +1,8 @@
+#******************
+Initial Version for course a Practical Start with React 17 from Pluralsight
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
